@@ -1,0 +1,10 @@
+.nav-link{
+    color: chartreuse;
+}
+.nav-link:hover{
+    color: rgb(95, 189, 1);
+}
+#img{
+    height: 40vh;
+    width: auto;
+}
